@@ -1,0 +1,6 @@
+C:\Users\Amri\Documents\Visual Studio 2015\Projects\CompaniesAndCars\CompaniesAndCarsRepository\bin\Debug\CompaniesAndCarsRepository.dll
+C:\Users\Amri\Documents\Visual Studio 2015\Projects\CompaniesAndCars\CompaniesAndCarsRepository\bin\Debug\CompaniesAndCarsRepository.pdb
+C:\Users\Amri\Documents\Visual Studio 2015\Projects\CompaniesAndCars\CompaniesAndCarsRepository\bin\Debug\GeniusesCode.Helper.dll
+C:\Users\Amri\Documents\Visual Studio 2015\Projects\CompaniesAndCars\CompaniesAndCarsRepository\bin\Debug\LightADO.dll
+C:\Users\Amri\Documents\Visual Studio 2015\Projects\CompaniesAndCars\CompaniesAndCarsRepository\obj\Debug\CompaniesAndCarsRepository.dll
+C:\Users\Amri\Documents\Visual Studio 2015\Projects\CompaniesAndCars\CompaniesAndCarsRepository\obj\Debug\CompaniesAndCarsRepository.pdb
