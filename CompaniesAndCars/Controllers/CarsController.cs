@@ -17,6 +17,7 @@ namespace CompaniesAndCars.Controllers
         private Repository<Car> _carsRepository = new CarsRepository();
 
         // GET: api/Cars
+        // Cached because the operation is costly
         [CacheOutput(ClientTimeSpan = 5, ServerTimeSpan = 5)]
         public IQueryable<Car> GetCars()
         {
