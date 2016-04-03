@@ -8,3 +8,5 @@ Feel free to contribute or use the code. If you have any questions, let me know.
 
 
 [![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/amri?utm_source=github&utm_medium=button&utm_term=amri&utm_campaign=github)
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b51924a6be086f652d62#?env%5BDevelopment%5D=W3sia2V5IjoidXJsIiwidmFsdWUiOiJodHRwOi8vc2FtcGxlYWRvbmV0LmF6dXJld2Vic2l0ZXMubmV0IiwidHlwZSI6InRleHQiLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6IkNvbXBhbnlJZCIsInZhbHVlIjoiMSIsInR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJVcGRhdGVkQ29tcGFueVZhbHVlIiwidmFsdWUiOiJ1cGRhdGVkQ29tcGFueU5hbWUiLCJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoiT3JpZ2luYWxDb21wYW55VmFsdWUiLCJ2YWx1ZSI6Im9yaWdpbmFsQ29tcGFueU5hbWUiLCJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoiQ2FySWQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiMSIsImVuYWJsZWQiOnRydWV9XQ==)
